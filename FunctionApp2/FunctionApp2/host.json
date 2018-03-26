@@ -1,0 +1,10 @@
+{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "Microsoft.Azure.KeyVault.Secret": "1.0.0",
+        "Microsoft.IdentityModel.Clients.ActiveDirectory": "2.14.201151115"
+      }
+    }
+  }
+}
